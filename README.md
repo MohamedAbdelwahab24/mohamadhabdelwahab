@@ -1,0 +1,153 @@
+# 👋 Mohamed Hisham
+
+**Senior Data Engineer | System Administrator**
+
+> *Transforming complex data into actionable insights. Building scalable pipelines. Automating operations.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadhabdelwahab/)
+[![Email](https://img.shields.io/badge/Email-Mohamad.Abdelwahab@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamad.Abdelwahab@outlook.com)
+[![Phone](https://img.shields.io/badge/Phone-+971-502780120-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+971502780120)
+
+📍 Dubai, United Arab Emirates | 🌐 Asia/Dubai (GMT+4)
+
+---
+
+## 🚀 About Me
+
+10+ years of professional experience driving data engineering initiatives across enterprise environments. Expert in building scalable data integration solutions, implementing data quality frameworks, and leading technical migrations. Passionate about automation, efficiency, and turning raw data into business value.
+
+**Current Focus:**
+- Leading Data Engineering operations for Dubai Police (BBI)
+- Building and maintaining production-grade data pipelines
+- Optimizing ETL workflows for >90% performance improvements
+- Automating disaster recovery and monitoring systems
+
+---
+
+## 🛠 Tech Stack
+
+### Data Engineering
+![Informatica](https://img.shields.io/badge/-Informatica-FF6600?style=for-the-badge&logo=informatica&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apachemapreduce&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E74A00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Cloudera](https://img.shields.io/badge/-Cloudera-3449C1?style=for-the-badge&logo=cloudera&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-004488?style=for-the-badge&logo=sas&logoColor=white)
+
+### Data Quality & Governance
+![IDQ](https://img.shields.io/badge/-IDQ-FF6B35?style=for-the-badge&logo=data-intelligence&logoColor=white)
+![Axon](https://img.shields.io/badge/-Axon-7C4DFF?style=for-the-badge&logo=axon&logoColor=white)
+![EDC](https://img.shields.io/badge/-EDC-00D4AA?style=for-the-badge&logo=datacatalog&logoColor=white)
+
+### Cloud & Integration
+![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
+![API](https://img.shields.io/badge/-API-34A853?style=for-the-badge&logo=api&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+### Infrastructure
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PowerExchange](https://img.shields.io/badge/-PowerExchange-0073C1?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏛 Dubai Police (BBI) | Senior Data Engineer & System Administrator
+**Aug 2022 – Present**
+
+- 🔥 Led data integration and quality initiatives supporting enterprise analytics and BI requirements
+- 🚀 Re-engineered Oracle stored procedures, achieving **>90% runtime performance improvement**
+- 🤖 Built **Veldrix** – automated system for Informatica DEI failover, recovery, job reruns, and 24/7 environment monitoring
+- 🔗 Integrated Informatica DEI with **Cloudera** for scalable big data processing workflows
+- 📊 Acted as technical lead for SAS and Oracle teams during major migration processes
+- 🛡 Enforced metadata consistency and data governance standards across systems
+- 🎯 Supported DIEZ, DAMAC Executive Heights, DCT, SCAD, Ooredoo, NBE, SEEC, and Djezzy projects
+
+### 🏢 Various Clients & Projects
+- **Statistics Center Abu Dhabi (SCAD)**: Built enterprise data marts, Axon integration, DQ exception management
+- **Ooredoo (Algeria)**: PowerExchange CDC upgrades, SSL certificate management, DQ production support
+- **National Bank of Egypt (NBE)**: Disaster recovery solutions, Informatica SSL upgrades, dev environment setup
+- **DAMAC Executive Heights**: API integration (Salesforce, Ameyo, Commercetools), performance optimization
+- **DCT (Doha)**: IDQ data quality rules, Exception Management, EDC installation & configuration
+
+---
+
+## 🌟 Key Achievements
+
+### 🏆 Veldrix Automation System
+Built a comprehensive automation framework that:
+- 🔄 Automates Informatica DEI failover and recovery procedures
+- ⏱ Reduces manual intervention by **>80%**
+- 📈 Handles server and database-level failures proactively
+- 🌙 Provides 24/7 environment monitoring with rapid incident resolution
+- 📊 Tracks job reruns and recovery metrics in real-time
+
+### 📊 Performance Optimization
+- ✅ Achieved **90%+ runtime improvement** for Oracle stored procedures
+- ✅ Optimized database views for enterprise reporting systems
+- ✅ Streamlined ETL workflows reducing processing time
+
+### 🏗 Complex Migrations
+- ✅ Led SAS and Oracle team migrations with zero data loss
+- ✅ Managed source schema changes with smooth transitions
+- ✅ Ensured data consistency across complex enterprise systems
+
+---
+
+## 🎓 Education & Certifications
+*(Add your education details here)*
+
+---
+
+## 📈 Professional Growth
+- **10+ Years** Total Experience
+- **4+ Years** Data Engineering Focus
+- **15+ Projects** Across UAE, Egypt, Algeria
+- **8+ Clients** Including Government, Banking, Telecom, Real Estate
+
+---
+
+## 🤝 Open Source & Contributions
+*(Add your GitHub repositories and contributions here)*
+
+---
+
+## 📞 Get In Touch
+
+I'm always open to discussing new opportunities, collaborations, or just having a chat about data engineering!
+
+- 📧 **Email**: [Mohamad.Abdelwahab@outlook.com](mailto:Mohamad.Abdelwahab@outlook.com)
+- 📱 **Phone**: +971 50 278 0120
+- 💼 **LinkedIn**: [View Profile](https://www.linkedin.com/in/mohamadhabdelwahab/)
+- 📍 **Location**: Dubai, UAE
+
+---
+
+## 📝 Quick Stats
+
+| Metric | Count |
+|--------|-------|
+| Years Experience | 10+ |
+| Data Engineering Focus | 4+ |
+| Projects Delivered | 15+ |
+| Clients Served | 8+ |
+| Industries Covered | 5+ |
+
+---
+
+## 🔗 Links
+
+- [LinkedIn Profile](https://www.linkedin.com/in/mohamadhabdelwahab/)
+- [GitHub Profile](https://github.com/mohamadhabdelwahab)
+- [Portfolio/Website](https://yourportfolio.com) *(Add your link)*
+
+---
+
+<div align="center">
+
+**Built with ❤️ by Mohamed Hisham**
+
+*Turning data into decisions since 2014*
+
+</div>
