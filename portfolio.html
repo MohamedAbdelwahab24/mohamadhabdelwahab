@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Hisham | Senior Data Engineer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 50%, #0f0f23 100%);
+            color: #fff;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 80px 0;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .avatar {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            margin: 0 auto 30px;
+            border: 4px solid #00d4aa;
+            box-shadow: 0 0 40px rgba(0, 212, 170, 0.3);
+            background: linear-gradient(135deg, #00d4aa, #7c4dff);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 60px;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            margin-bottom: 10px;
+            background: linear-gradient(90deg, #00d4aa, #7c4dff, #00d4aa);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: gradient 3s ease infinite;
+        }
+
+        .hero .role {
+            font-size: 1.5rem;
+            color: #7c4dff;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .hero .location {
+            color: #888;
+            margin-bottom: 30px;
+        }
+
+        .hero .phone {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(90deg, #00d4aa, #00997a);
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s, box-shadow 0.3s;
+            margin: 0 10px;
+        }
+
+        .hero .phone:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 212, 170, 0.4);
+        }
+
+        .hero .email {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(90deg, #7c4dff, #5e35b1);
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: transform 0.3s, box-shadow 0.3s;
+            margin: 0 10px;
+        }
+
+        .hero .email:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(124, 77, 255, 0.4);
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 60px;
+            animation: fadeInUp 1.2s ease-out;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 30px;
+            text-align: center;
+            transition: transform 0.3s, background 0.3s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.08);
+            border-color: #00d4aa;
+        }
+
+        .stat-card .number {
+            font-size: 3rem;
+            font-weight: 800;
+            color: #00d4aa;
+            margin-bottom: 10px;
+        }
+
+        .stat-card .label {
+            font-size: 1.1rem;
+            color: #888;
+        }
+
+        .section {
+            margin-top: 80px;
+            animation: fadeInUp 1.4s ease-out;
+        }
+
+        .section h2 {
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin-bottom: 40px;
+            text-align: center;
+            background: linear-gradient(90deg, #00d4aa, #7c4dff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .skill-category {
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 20px;
+            padding: 30px;
+        }
+
+        .skill-category h3 {
+            color: #7c4dff;
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .skills-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill-tag {
+            padding: 8px 16px;
+            background: rgba(0, 212, 170, 0.1);
+            border: 1px solid rgba(0, 212, 170, 0.3);
+            border-radius: 20px;
+            color: #00d4aa;
+            font-size: 0.9rem;
+            transition: all 0.3s;
+        }
+
+        .skill-tag:hover {
+            background: rgba(0, 212, 170, 0.2);
+            transform: scale(1.05);
+        }
+
+        .achievements-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .achievement-card {
+            background: rgba(124, 77, 255, 0.05);
+            border: 1px solid rgba(124, 77, 255, 0.2);
+            border-radius: 20px;
+            padding: 30px;
+            transition: all 0.3s;
+        }
+
+        .achievement-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(124, 77, 255, 0.2);
+        }
+
+        .achievement-card .icon {
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+
+        .achievement-card h3 {
+            color: #fff;
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .achievement-card p {
+            color: #888;
+            font-size: 0.95rem;
+        }
+
+        .clients-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+        }
+
+        .client-tag {
+            padding: 12px 25px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 30px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .client-tag:hover {
+            background: rgba(0, 212, 170, 0.1);
+            border-color: #00d4aa;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero .role {
+                font-size: 1.2rem;
+            }
+
+            .stats {
+                grid-template-columns: 1fr;
+            }
+
+            .section h2 {
+                font-size: 1.8rem;
+            }
+
+            .hero .phone, .hero .email {
+                display: block;
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <div class="avatar">⚡</div>
+            <h1>Mohamed Hisham</h1>
+            <p class="role">Senior Data Engineer | System Administrator</p>
+            <p class="location">📍 Dubai, UAE | 🌐 Asia/Dubai (GMT+4)</p>
+            <p class="pulse" style="color: #00d4aa; margin-bottom: 30px;">
+                🎯 Transforming complex data into actionable insights
+            </p>
+            <a href="tel:+971502780120" class="phone">📞 +971 50 278 0120</a>
+            <a href="mailto:Mohamad.Abdelwahab@outlook.com" class="email">📧 Email Me</a>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="number">10+</div>
+                <div class="label">Years Experience</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">4+</div>
+                <div class="label">Years Data Engineering</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">15+</div>
+                <div class="label">Projects Delivered</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">8+</div>
+                <div class="label">Clients Served</div>
+            </div>
+            <div class="stat-card">
+                <div class="number">5+</div>
+                <div class="label">Industries Covered</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🛠 Tech Stack</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Data Engineering</h3>
+                    <div class="skills-list">
+                        <span class="skill-tag">Informatica</span>
+                        <span class="skill-tag">Hadoop</span>
+                        <span class="skill-tag">Spark</span>
+                        <span class="skill-tag">Cloudera</span>
+                        <span class="skill-tag">Oracle</span>
+                        <span class="skill-tag">SAS</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Data Quality</h3>
+                    <div class="skills-list">
+                        <span class="skill-tag">IDQ</span>
+                        <span class="skill-tag">Axon</span>
+                        <span class="skill-tag">EDC</span>
+                        <span class="skill-tag">Data Governance</span>
+                        <span class="skill-tag">DQ Rules</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Cloud & Integration</h3>
+                    <div class="skills-list">
+                        <span class="skill-tag">Cloud</span>
+                        <span class="skill-tag">API</span>
+                        <span class="skill-tag">Salesforce</span>
+                        <span class="skill-tag">Integration</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Infrastructure</h3>
+                    <div class="skills-list">
+                        <span class="skill-tag">Linux</span>
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">PowerExchange</span>
+                        <span class="skill-tag">System Admin</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🏆 Key Achievements</h2>
+            <div class="achievements-grid">
+                <div class="achievement-card">
+                    <div class="icon">🤖</div>
+                    <h3>Veldrix Automation</h3>
+                    <p>Built automated system for Informatica DEI failover, recovery, and 24/7 monitoring. Reduces manual intervention by 80%.</p>
+                </div>
+                <div class="achievement-card">
+                    <div class="icon">📊</div>
+                    <h3>90% Performance Boost</h3>
+                    <p>Re-engineered Oracle stored procedures achieving over 90% runtime performance improvement across enterprise systems.</p>
+                </div>
+                <div class="achievement-card">
+                    <div class="icon">🚀</div>
+                    <h3>Scalable Data Pipelines</h3>
+                    <p>Integrated Informatica with Cloudera for enterprise-grade big data processing and real-time analytics.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>🏢 Notable Clients</h2>
+            <div class="clients-list">
+                <span class="client-tag">Dubai Police</span>
+                <span class="client-tag">Statistics Center Abu Dhabi</span>
+                <span class="client-tag">Ooredoo Algeria</span>
+                <span class="client-tag">National Bank of Egypt</span>
+                <span class="client-tag">DAMAC Executive Heights</span>
+                <span class="client-tag">Doha Department of Culture</span>
+                <span class="client-tag">Saudi Energy Efficiency Center</span>
+                <span class="client-tag">Djezzy</span>
+            </div>
+        </div>
+
+        <div class="section">
+            <div style="text-align: center; padding: 40px;">
+                <h2 style="margin-bottom: 20px;">📧 Get In Touch</h2>
+                <p style="color: #888; margin-bottom: 30px;">
+                    I'm always open to discussing new opportunities, collaborations, or just having a chat about data engineering!
+                </p>
+                <a href="mailto:Mohamad.Abdelwahab@outlook.com" class="phone" style="font-size: 1.2rem; padding: 15px 40px;">
+                    📩 Start a Conversation
+                </a>
+            </div>
+        </div>
+
+        <footer style="text-align: center; padding: 40px 0; color: #666; font-size: 0.9rem;">
+            <p>Built with ❤️ by Mohamed Hisham | Turning data into decisions since 2014</p>
+            <p style="margin-top: 10px;">
+                <a href="https://www.linkedin.com/in/mohamadhabdelwahab/" style="color: #00d4aa; text-decoration: none;">LinkedIn</a> |
+                <a href="https://github.com/mohamadhabdelwahab" style="color: #00d4aa; text-decoration: none;">GitHub</a>
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        // Add some interactivity
+        document.querySelectorAll('.skill-tag, .client-tag').forEach(tag => {
+            tag.addEventListener('mouseenter', () => {
+                tag.style.background = 'rgba(0, 212, 170, 0.2)';
+                tag.style.borderColor = '#00d4aa';
+            });
+            tag.addEventListener('mouseleave', () => {
+                tag.style.background = '';
+                tag.style.borderColor = '';
+            });
+        });
+
+        // Smooth scroll for any links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
