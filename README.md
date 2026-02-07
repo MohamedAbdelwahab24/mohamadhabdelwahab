@@ -12,6 +12,50 @@
 
 ---
 
+## 🎓 Certifications
+
+### Microsoft Azure
+![DP-700](https://img.shields.io/badge/DP-700-F5821F?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-300](https://img.shields.io/badge/DP-300-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-203](https://img.shields.io/badge/DP-203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-900](https://img.shields.io/badge/DP-900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AZ-104](https://img.shields.io/badge/AZ-104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AZ-900](https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PL-300](https://img.shields.io/badge/PL-300-F5821F?style=for-the-badge&logo=powerbi&logoColor=white)
+
+- **DP-700**: Fabric Data Engineer Associate | Microsoft
+- **DP-300**: Azure Database Administrator | Microsoft
+- **DP-203**: Azure Data Engineer | Microsoft ⭐
+- **DP-900**: Azure Data Fundamentals | Microsoft
+- **AZ-104**: Azure Administrator Associate | Microsoft
+- **AZ-900**: Azure Fundamentals | Microsoft
+- **PL-300**: PowerBI Data Analyst | Microsoft
+
+### ITI Certifications
+![Data Visualization](https://img.shields.io/badge/Data-Viz-00A98F?style=for-the-badge&logo=chart&logoColor=white) ![Network Fundamentals](https://img.shields.io/badge/Network-Fundamentals-FF6B35?style=for-the-badge&logo=network&logoColor=white) ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-FF0000?style=for-the-badge&logo=security&logoColor=white)
+
+- **Data Visualization** | ITI
+- **Network Fundamentals** | ITI
+- **Ethical Hacking** | ITI
+
+### IBM Certifications
+![Protect Data](https://img.shields.io/badge/Protect-Data-0A2342?style=for-the-badge&logo=ibm&logoColor=white) ![Cybersecurity Threat](https://img.shields.io/badge/Cybersecurity-Threat-0A2342?style=for-the-badge&logo=ibm&logoColor=white)
+
+- **Protect your sensitive data against threats** | IBM
+- **Identify and investigate cybersecurity threat** | IBM
+
+### AWS Certifications
+![AWS Partner](https://img.shields.io/badge/AWS-Partner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+- **AWS Partner: Accreditation (Business)** | AWS
+
+### Informatica
+![IICS](https://img.shields.io/badge/IICS-FF6600?style=for-the-badge&logo=informatica&logoColor=white)
+
+- **IICS**: Informatica Data Integration Services | Informatica Success
+
+### Other & Online Courses
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+- **Data Warehouse Concepts, Design, and Data Integration** | Coursera
+- **Python Specialization** | Coursera
+
+---
+
 ## 🚀 About Me
 
 10+ years of professional experience driving data engineering initiatives across enterprise environments. Expert in building scalable data integration solutions, implementing data quality frameworks, and leading technical migrations. Passionate about automation, efficiency, and turning raw data into business value.
@@ -40,6 +84,8 @@
 ![EDC](https://img.shields.io/badge/-EDC-00D4AA?style=for-the-badge&logo=datacatalog&logoColor=white)
 
 ### Cloud & Integration
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=for-the-badge&logo=cloud&logoColor=white)
 ![API](https://img.shields.io/badge/-API-34A853?style=for-the-badge&logo=api&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -96,13 +142,33 @@ Built a comprehensive automation framework that:
 ---
 
 ## 🎓 Education & Certifications
-*(Add your education details here)*
+
+### Microsoft Certifications
+- **DP-203**: Azure Data Engineer (Advanced)
+- **DP-700**: Fabric Data Engineer Associate
+- **DP-300**: Azure Database Administrator
+- **AZ-104**: Azure Administrator Associate
+- **PL-300**: PowerBI Data Analyst
+
+### Cloud & Security
+- **AWS Partner**: Accreditation (Business)
+- **Azure Fundamentals** (AZ-900, DP-900)
+- **IBM**: Cybersecurity Threat Detection & Data Protection
+- **ITI**: Network Fundamentals, Data Visualization, Ethical Hacking
+
+### Data Engineering
+- **IICS**: Informatica Data Integration Services
+- **Coursera**: Data Warehouse Concepts & Python Specialization
+
+**Total: 18 Certifications** covering Azure, AWS, Informatica, Security, and Data Engineering
 
 ---
 
 ## 📈 Professional Growth
+
 - **10+ Years** Total Experience
 - **4+ Years** Data Engineering Focus
+- **18 Certifications** (Azure, AWS, Informatica, Security, Data Engineering)
 - **15+ Projects** Across UAE, Egypt, Algeria
 - **8+ Clients** Including Government, Banking, Telecom, Real Estate
 
@@ -133,13 +199,14 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 | Projects Delivered | 15+ |
 | Clients Served | 8+ |
 | Industries Covered | 5+ |
+| **Certifications** | **18** |
 
 ---
 
 ## 🔗 Links
 
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamadhabdelwahab/)
-- [GitHub Profile](https://github.com/mohamadhabdelwahab)
+- [GitHub Profile](https://github.com/MohamedAbdelwahab24/mohamadhabdelwahab)
 - [Portfolio/Website](https://yourportfolio.com) *(Add your link)*
 
 ---
@@ -148,6 +215,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 **Built with ❤️ by Mohamed Hisham**
 
-*Turning data into decisions since 2014*
+*Turning data into decisions since 2014 | 18 Certifications | Senior Data Engineer*
 
 </div>
