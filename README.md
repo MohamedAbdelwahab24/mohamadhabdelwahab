@@ -17,12 +17,12 @@
 ### Microsoft Azure
 ![DP-700](https://img.shields.io/badge/DP-700-F5821F?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-300](https://img.shields.io/badge/DP-300-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-203](https://img.shields.io/badge/DP-203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DP-900](https://img.shields.io/badge/DP-900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AZ-104](https://img.shields.io/badge/AZ-104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AZ-900](https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PL-300](https://img.shields.io/badge/PL-300-F5821F?style=for-the-badge&logo=powerbi&logoColor=white)
 
+- **DP-203**: Azure Data Engineer | Microsoft ⭐
 - **DP-700**: Fabric Data Engineer Associate | Microsoft
 - **DP-300**: Azure Database Administrator | Microsoft
-- **DP-203**: Azure Data Engineer | Microsoft ⭐
-- **DP-900**: Azure Data Fundamentals | Microsoft
 - **AZ-104**: Azure Administrator Associate | Microsoft
 - **AZ-900**: Azure Fundamentals | Microsoft
+- **DP-900**: Azure Data Fundamentals | Microsoft
 - **PL-300**: PowerBI Data Analyst | Microsoft
 
 ### ITI Certifications
@@ -143,32 +143,34 @@ Built a comprehensive automation framework that:
 
 ## 🎓 Education & Certifications
 
-### Microsoft Certifications
-- **DP-203**: Azure Data Engineer (Advanced)
+### Microsoft Azure (7 Certifications)
+- **DP-203**: Azure Data Engineer ⭐ **Most Advanced**
 - **DP-700**: Fabric Data Engineer Associate
 - **DP-300**: Azure Database Administrator
 - **AZ-104**: Azure Administrator Associate
 - **PL-300**: PowerBI Data Analyst
+- **AZ-900**: Azure Fundamentals
+- **DP-900**: Azure Data Fundamentals
 
-### Cloud & Security
+### Cloud & Security (4 Certifications)
 - **AWS Partner**: Accreditation (Business)
-- **Azure Fundamentals** (AZ-900, DP-900)
 - **IBM**: Cybersecurity Threat Detection & Data Protection
 - **ITI**: Network Fundamentals, Data Visualization, Ethical Hacking
 
-### Data Engineering
+### Data Engineering (3 Certifications)
 - **IICS**: Informatica Data Integration Services
-- **Coursera**: Data Warehouse Concepts & Python Specialization
+- **Coursera**: Data Warehouse Concepts & Design
+- **Coursera**: Python Specialization
 
-**Total: 18 Certifications** covering Azure, AWS, Informatica, Security, and Data Engineering
+**Total: 18 Certifications | 17+ Years of Learning & Growth**
 
 ---
 
 ## 📈 Professional Growth
 
-- **10+ Years** Total Experience
+- **10+ Years** Total Professional Experience
 - **4+ Years** Data Engineering Focus
-- **18 Certifications** (Azure, AWS, Informatica, Security, Data Engineering)
+- **18 Certifications** 🎓 (Azure, AWS, Informatica, Security, Data Engineering)
 - **15+ Projects** Across UAE, Egypt, Algeria
 - **8+ Clients** Including Government, Banking, Telecom, Real Estate
 
@@ -215,6 +217,6 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 
 **Built with ❤️ by Mohamed Hisham**
 
-*Turning data into decisions since 2014 | 18 Certifications | Senior Data Engineer*
+*Turning data into decisions since 2014 | 18 Certifications | Senior Data Engineer | GitHub Profile*
 
 </div>
