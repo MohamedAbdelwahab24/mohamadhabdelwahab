@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadhabdelwahab/)
 [![Email](https://img.shields.io/badge/Email-Mohamad.Abdelwahab@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mohamad.Abdelwahab@outlook.com)
-[![Phone](https://img.shields.io/badge/Phone-+971-502780120-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+971502780120)
+[![Phone](https://img.shields.io/badge/Phone-%2B971%2050%20278%200120-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+971502780120)
 
 📍 Dubai, United Arab Emirates | 🌐 Asia/Dubai (GMT+4)
 
@@ -162,7 +162,7 @@ Built a comprehensive automation framework that:
 - **Coursera**: Data Warehouse Concepts & Design
 - **Coursera**: Python Specialization
 
-**Total: 18 Certifications | 17+ Years of Learning & Growth**
+**Total: 18 Certifications | Continuous Learning Mindset**
 
 ---
 
@@ -176,8 +176,17 @@ Built a comprehensive automation framework that:
 
 ---
 
-## 🤝 Open Source & Contributions
-*(Add your GitHub repositories and contributions here)*
+
+## 📌 Featured Projects
+
+- [**Awesome DevOps Dashboard**](https://github.com/MohamedAbdelwahab24/awesome-devops-dashboard)  
+  Real-time GitHub/CI dashboard with backend + frontend architecture.
+- [**Voice To-Do PWA**](https://github.com/MohamedAbdelwahab24/voice-todo)  
+  Installable voice-controlled to-do app with offline support.
+- [**Simple Automation CLI**](https://github.com/MohamedAbdelwahab24/simple-automation-cli)  
+  Python CLI for repeatable data engineering automation workflows.
+- [**API Testing Framework**](https://github.com/MohamedAbdelwahab24/api-testing-framework)  
+  Lightweight Python framework for API request/expectation testing patterns.
 
 ---
 
@@ -208,8 +217,8 @@ I'm always open to discussing new opportunities, collaborations, or just having 
 ## 🔗 Links
 
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamadhabdelwahab/)
-- [GitHub Profile](https://github.com/MohamedAbdelwahab24/mohamadhabdelwahab)
-- [Portfolio/Website](https://yourportfolio.com) *(Add your link)*
+- [GitHub Profile](https://github.com/MohamedAbdelwahab24)
+- [Portfolio Page](https://github.com/MohamedAbdelwahab24/mohamadhabdelwahab/blob/master/portfolio.html)
 
 ---
 
